@@ -1,6 +1,6 @@
 """
 I have sorted the array and used 3 pointers to find the closest sum.
-I used 2 pointers to find th best pair in each fixed element.
+I used 2 pointers to find the best pair in each fixed element.
 """
 
 class Solution:
