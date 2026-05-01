@@ -1,21 +1,2 @@
 # Leetcode-Practice
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0001-two-sum) |
-| [0016-3sum-closest](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0016-3sum-closest) |
-## Two Pointers
-|  |
-| ------- |
-| [0016-3sum-closest](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0016-3sum-closest) |
-## Sorting
-|  |
-| ------- |
-| [0016-3sum-closest](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0016-3sum-closest) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+This repository shows my leetcode question solutions with an explanation of my thought process. I practice leetcode in my free time to strengthen both my problem solving skills and my knowledge of data structures and algorithms. I primarily do these with python.
