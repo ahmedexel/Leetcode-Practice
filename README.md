@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
