@@ -4,3 +4,4 @@ This repository shows my leetcode question solutions with an explanation of my t
 ## Common Data Structures Involved:
 - Arrays
 - Linked Lists
+- Binary trees
