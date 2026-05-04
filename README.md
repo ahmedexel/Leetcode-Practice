@@ -5,3 +5,4 @@ This repository shows my leetcode question solutions with an explanation of my t
 - Arrays
 - Linked Lists
 - Binary trees
+- Stacks
