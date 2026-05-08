@@ -27,4 +27,12 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
