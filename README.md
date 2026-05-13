@@ -10,6 +10,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,8 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
