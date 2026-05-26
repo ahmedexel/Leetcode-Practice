@@ -12,6 +12,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 | ------- |
 | [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0135-candy) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +54,8 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0077-combinations) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
