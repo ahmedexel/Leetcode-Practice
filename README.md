@@ -10,6 +10,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0135-candy) |
@@ -58,4 +59,8 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0135-candy](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
