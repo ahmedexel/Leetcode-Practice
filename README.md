@@ -41,6 +41,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -63,4 +64,12 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
