@@ -34,6 +34,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +76,8 @@ This repository shows my leetcode question solutions with an explanation of my t
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
