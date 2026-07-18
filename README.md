@@ -37,6 +37,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 | ------- |
 | [0020-valid-parentheses](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +83,12 @@ This repository shows my leetcode question solutions with an explanation of my t
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
