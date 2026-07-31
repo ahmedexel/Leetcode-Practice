@@ -15,6 +15,7 @@ This repository shows my leetcode question solutions with an explanation of my t
 | [0066-plus-one](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,9 +87,11 @@ This repository shows my leetcode question solutions with an explanation of my t
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ahmedexel/Leetcode-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
